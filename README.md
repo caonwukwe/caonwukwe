@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caonwukwe
 - 👀 I’m interested in data analysis and Web development 
-- 🌱 I’m currently doing my case study on data analysis via Cousera
+- 🌱 I’m currently doing my python programming for data analysis
 - 💞️ I’m looking to collaborate on data analysis to solve data related problems 
 - 📫 You can reach me on caonwukwe@gmail.com 
 - 😄 Pronouns: I identify as He
